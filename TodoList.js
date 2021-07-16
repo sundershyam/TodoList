@@ -121,8 +121,7 @@ function edit_menu_todo() {
   const todoedit = document.getElementsByClassName("edit_todo");
   for (i = 0; i < todoedit.length; i++) {
     todoedit[i].addEventListener("click", function () {
-        document.getElementById("edit_menu").style.display="";
-        document.getElementById("show_current").innerText=this.parentElement.innerText;
+        alert("On Working keep patience\nWait for Next Update\n\n Thankyou");
     });
   }
 }
