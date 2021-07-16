@@ -68,9 +68,11 @@ height: auto;
     background-color: red;
     border: 1px solid red;
     color: white;
+    border-right: 1px solid #c27b7d;
 }
 .edit_todo{
     background-color: green;
     border: 1px solid green;
     color: white;
+    border-left: 1px solid #c27b7d;
 }
